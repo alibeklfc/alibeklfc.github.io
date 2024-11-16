@@ -5,7 +5,6 @@ date:   2024-11-16 00:00:00 +00:00
 image: /images/beta.png
 categories: research
 author: "Alibek Zhakubayev"
-subtitle: "Best Poster Award"
 authors: "<strong>Alibek Zhakubayev</strong>, Greg Hamerly"
 venue: "The 11th IEEE International Conference on Data Science and Advanced Analytics (DSAA)"
 ---
