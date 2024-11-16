@@ -7,6 +7,6 @@ categories: research
 author: "Alibek Zhakubayev"
 subtitle: "Best Poster Award"
 authors: "<strong>Alibek Zhakubayev</strong>, Greg Hamerly"
-venue: "The 11th IEEE International Conference on Data Science and Advanced Analytics (DSAA 2024)"
+venue: "The 11th IEEE International Conference on Data Science and Advanced Analytics (DSAA)"
 ---
 The paper proposes Beta k-means and Beta Hamerly k-means algorithms, which use probabilistic filtering with a beta distribution to skip unnecessary distance calculations during clustering. These methods show faster convergence than traditional k-means, Hamerly, and Annulus algorithms, especially with high-dimensional data, without sacrificing clustering quality
