@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ethanol consumption in non-human primates alters plasma markers of bone turnover but not tibia architecture"
-date:   2024-11-16 00:00:00 +00:00
+date:   2024-08-16 00:00:00 +00:00
 image: /images/bone.png
 categories: research
 author: "Alibek Zhakubayev"
