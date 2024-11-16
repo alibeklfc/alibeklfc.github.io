@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Ethanol consumption in non-human primates alters plasma markers of bone turnover but not tibia architecture"
+date:   2024-11-16 00:00:00 +00:00
+image: /images/bone.png
+categories: research
+author: "Alibek Zhakubayev"
+authors: "<strong>Alibek Zhakubayev</strong>, Lara Sattgast, Anne Lewis, Kathleen Grant, Russell Turner, Urszula Iwaniec &  Mary Lauren Benton"
+venue: "Scientific Reports"
+---
+This study explores the impact of chronic ethanol consumption on non-human primates, finding that ethanol significantly lowers plasma markers of bone turnover, such as osteocalcin and CTX, but does not alter tibial bone architecture. Using machine learning and statistical analysis, the research suggests that the decrease in bone turnover may impair bone quality, though bone structure remains unaffected
