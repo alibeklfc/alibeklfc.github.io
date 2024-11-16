@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Image processing approach provides robust feature extraction for classification with small sample sizes"
+date:   2023-11-16 00:00:00 +00:00
+image: /images/bone-lstm.png
+categories: research
+author: "Alibek Zhakubayev"
+authors: "<strong>Alibek Zhakubayev</strong>, Thomas Andersen, Annie Vesterby, Lene Warner Thorup Boel, Kathleen Grant, Urszula Iwaniec, Russell Turner, Erich Baker, Mary Lauren Benton"
+venue: "The 7th International Conference on Information System and Data Mining (ICISDM)"
+---
+This study uses an LSTM-based encoder-decoder model to extract features from µCT images, enabling the classification of bone samples by sex, age, and alcohol consumption status in humans and rhesus macaques. The LSTM-derived features allowed moderate classification accuracy for sex, with 72% accuracy in macaques and 65.5% in humans, while distinctions based on alcohol consumption were less pronounced
