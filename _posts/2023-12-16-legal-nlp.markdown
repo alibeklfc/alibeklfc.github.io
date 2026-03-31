@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Legal Natural Language Processing from 2015 to 2022: A Comprehensive Systematic Mapping Study of Advances and Applications"
+date: 2023-12-16 00:00:00 +00:00
+image: /images/asthma.png
+categories: research
+author: "Alibek Zhakubayev"
+authors: "Ernesto Quevedo, Tomas Cerny, Alejandro Rodriguez, Pablo Rivas, Jorge Yero, Korn Sooksatra, <strong>Alibek Zhakubayev</strong>, Davide Taibi"
+venue: "IEEE Access"
+---
+A comprehensive systematic mapping study covering advances and applications in legal natural language processing from 2015 to 2022.

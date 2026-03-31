@@ -1,0 +1,43 @@
+# Site settings
+name: Alibek Zhakubayev
+title: Alibek Zhakubayev
+description: Research Scientist at Meta | PhD in Computer Science
+
+# Avatar
+avatar: images/Alibek_Zhakubayev-modified.png
+
+# Social links
+social:
+  email: alibek.zhakubayev@gmail.com
+  github: alibeklfc
+  instagram: alibek_lfc
+  linkedin: alibek-zhakubayev
+  scholar: W3yumCcAAAAJ
+
+# URL
+url: "https://alibeklfc.github.io"
+
+# Build
+permalink: /
+version: v1.2.0
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+
+sass:
+  style: :compressed
+
+plugins:
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
+  - _make_favicon.sh
+  - _make_thumbnails.sh

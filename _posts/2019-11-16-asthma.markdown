@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Learning the Relationship between Asthma and Meteorological Events by Using Machine Learning Methods"
+date:   2019-11-16 00:00:00 +00:00
+image: /images/asthma.png
+categories: research
+author: "Alibek Zhakubayev"
+authors: "<strong>Alibek Zhakubayev</strong>, Adnan Yazici"
+venue: "The 13th International Conference on Application of Information and Communication Technologies (AICT)"
+---
+This study develops a machine learning model to predict asthma cases based on meteorological events, using data from Russia to identify significant features and applying the findings to Kazakhstan through transfer learning. Random forest regression, using both original and semi-synthetic features, proved most effective, highlighting the influence of weather patterns on asthma prevalence across regions
